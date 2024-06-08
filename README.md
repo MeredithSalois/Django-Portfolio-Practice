@@ -1,4 +1,4 @@
-# 👨‍💻 Django Portfolio Practice
+# 👨‍💻 Django Portfolio App Practice
 <h2>Description: </h2>
 This project encompasses the development of a Django application within the mysite project hosted on PythonAnywhere. The task involves creating either a ToDo app or a Portfolio app, departing from the traditional "blog" app. The starting point is Assignment 4, where the basic functionalities of adding and displaying ToDo items or portfolio items are established. Subsequently, the application evolves to incorporate advanced features such as forms and user logins.
 
